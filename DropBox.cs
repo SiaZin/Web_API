@@ -9,7 +9,7 @@ namespace API
     [TestClass]
     public class DropBox
     {
-        public string token = "Bearer sl.AoHJuM5IyxHcNKrLmMuLt6B6dzucPwRxAnYbe64B5mGQT62ONfuH-qRQ-warXiyZcACGVYyw5U3qYk_3ccJSwJLl6Uzdczwo8qI1EbZ_xnQCVN4o5V_zhs73OaoKqINeLQXu4WLf";
+        public string token = "Bearer qbFIerytlJIAAAAAAAAAAZSzhoK8ScnOzMBcIdrY_KFQSGcNt9UmrLUOSIvCayp4";
 
         [TestMethod]
         public void Delete()
